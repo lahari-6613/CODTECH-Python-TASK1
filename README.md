@@ -8,6 +8,8 @@
 ## Overview of the Project
 
 ### Project:Simple Calculator
+![Screenshot 2024-12-11 135224](https://github.com/user-attachments/assets/de8a6034-2e52-4e66-88f9-a1c6fcd6337b)
+
 ### Objective
 This Python program functions as a basic calculator that allows users to input two numbers, select an arithmetic operation (addition, subtraction, multiplication, or division), and display the result. The program aims to provide a user-friendly interface to perform basic mathematical operations, while also incorporating error handling and validation for incorrect inputs.
 ### Key Activities
